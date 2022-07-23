@@ -1,2 +1,3 @@
 # SuperTriunfoRemake
-Jogo de cartas em python
+Meu primeiro projeto.
+Jogo de cartas em Python
